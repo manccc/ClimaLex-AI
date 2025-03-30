@@ -39,6 +39,7 @@ GEMINI_API_KEY=your_gemini_api_key
 GOOGLE_SEARCH_API_KEY=your_google_search_api_key
 GOOGLE_CSE_ID=your_google_cse_id
 ```
+### Note:The APIs used in this project are free but come with usage limits. You can use your own OpenAI or other API keys for enhanced functionality.
 Usage
 Run the Streamlit application:
 ```bash
