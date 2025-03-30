@@ -103,7 +103,7 @@ def main():
         st.header("🔍 Select a News Category")
         categories = {
             "🌱 Climate Risk": "Latest trends in climate risk for insurance",
-            "🚀 InsurTech": "Emerging InsurTech innovations and disruptions",
+            "🚀 InsureTech": "Emerging InsureTech innovations and disruptions",
             "📜 Policies & Regulations": "New insurance regulations and climate policies",
             "⚠️ Impactful Events": "Major events affecting insurance and reinsurance",
             "📄 TNFD Reports": "Recent TNFD reports on climate and nature-related risks"
