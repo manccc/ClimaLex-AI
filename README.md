@@ -1,6 +1,6 @@
 # ClimaLex-AI
 ### _Overview_
-This project is a news aggregation and summarization tool that fetches and summarizes the latest articles related to climate risk, InsurTech, policies, and impactful events in the insurance and reinsurance sector. The system extracts relevant insights from legitimate online sources and presents them in a structured report format.
+This project is a news aggregation and summarization tool that fetches and summarizes the latest articles related to climate risk, InsureTech, policies, and impactful events in the insurance and reinsurance sector. The system extracts relevant insights from legitimate online sources and presents them in a structured report format.
 
 ## _Features_:
 * Web Scraping: Uses Google Custom Search API and BeautifulSoup to extract news articles.
