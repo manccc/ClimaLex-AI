@@ -57,3 +57,13 @@ streamlit run app.py
 * Number of Articles Retrieved.
 * Average Summary Length.
 * User Feedback on Summary Quality.
+
+### Outputs and Reports
+* The tool generates a structured report with article summaries and links to full sources.
+* If the article is in PDF format, it extracts the text and summarizes it.
+* Reports can be exported in JSON or CSV format for further analysis.
+
+### Future Enhancements
+* Improved PDF Parsing: Handling complex PDF layouts.
+* Multilingual Support.
+* Integration with News APIs beyond Google Custom Search.
